@@ -4,8 +4,8 @@ using UnityEngine.InputSystem;
 
 public class PlayerController : MonoBehaviour
 {
-    public float moveSpeed = 5f;
-    public float jumpPower = 5f;
+    public float moveSpeed = 7f;
+    public float jumpPower = 14f;
     public float gravity = -20f;
 
     private Vector2 moveInput;
